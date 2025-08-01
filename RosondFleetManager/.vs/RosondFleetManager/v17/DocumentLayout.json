@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A87BA9CE-3078-45B9-BBE1-539BBF6B4A86}|RosondFleetManager\\RosondFleetManager.csproj|solutionrelative:rosondfleetmanager\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A87BA9CE-3078-45B9-BBE1-539BBF6B4A86}|RosondFleetManager\\RosondFleetManager.csproj|c:\\users\\kenny\\desktop\\rosondfleetmanager\\rosondfleetmanager\\rosondfleetmanager\\views\\reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A87BA9CE-3078-45B9-BBE1-539BBF6B4A86}|RosondFleetManager\\RosondFleetManager.csproj|C:\\Users\\Kenny\\Desktop\\RosondFleetManager\\RosondFleetManager\\rosondfleetmanager\\views\\reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A87BA9CE-3078-45B9-BBE1-539BBF6B4A86}|RosondFleetManager\\RosondFleetManager.csproj|solutionrelative:rosondfleetmanager\\views\\reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -99,7 +99,7 @@
       "RelativeMoniker": "D:0:0:{A87BA9CE-3078-45B9-BBE1-539BBF6B4A86}|RosondFleetManager\\RosondFleetManager.csproj|solutionrelative:rosondfleetmanager\\views\\drivers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A87BA9CE-3078-45B9-BBE1-539BBF6B4A86}|RosondFleetManager\\RosondFleetManager.csproj|c:\\users\\kenny\\desktop\\rosondfleetmanager\\rosondfleetmanager\\rosondfleetmanager\\migrations\\202508010938391_addclienttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A87BA9CE-3078-45B9-BBE1-539BBF6B4A86}|RosondFleetManager\\RosondFleetManager.csproj|C:\\Users\\Kenny\\Desktop\\RosondFleetManager\\RosondFleetManager\\rosondfleetmanager\\migrations\\202508010938391_addclienttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A87BA9CE-3078-45B9-BBE1-539BBF6B4A86}|RosondFleetManager\\RosondFleetManager.csproj|solutionrelative:rosondfleetmanager\\migrations\\202508010938391_addclienttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -250,8 +250,7 @@
               "RelativeToolTip": "RosondFleetManager\\Models\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T13:12:28.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:12:28.999Z"
             },
             {
               "$type": "Document",
@@ -263,8 +262,7 @@
               "RelativeToolTip": "RosondFleetManager\\Models\\Driver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T13:12:52.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:12:52.598Z"
             },
             {
               "$type": "Document",
@@ -276,8 +274,7 @@
               "RelativeToolTip": "RosondFleetManager\\Models\\Supplier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T13:11:38.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:11:38.565Z"
             },
             {
               "$type": "Document",
@@ -289,8 +286,7 @@
               "RelativeToolTip": "RosondFleetManager\\Models\\Vehicle.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAswCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T13:11:12.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:11:12.829Z"
             },
             {
               "$type": "Document",
@@ -302,8 +298,7 @@
               "RelativeToolTip": "RosondFleetManager\\Models\\ReportViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T18:11:11.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T18:11:11.697Z"
             },
             {
               "$type": "Document",
@@ -315,8 +310,7 @@
               "RelativeToolTip": "RosondFleetManager\\Controllers\\ReportsController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T16:47:33.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T16:47:33.546Z"
             },
             {
               "$type": "Document",
@@ -328,8 +322,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Reports\\Index.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAqwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-01T10:14:00.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T10:14:00.328Z"
             },
             {
               "$type": "Document",
@@ -339,7 +332,7 @@
               "RelativeDocumentMoniker": "RosondFleetManager\\Controllers\\SuppliersController.cs",
               "ToolTip": "C:\\Users\\Kenny\\Desktop\\RosondFleetManager\\RosondFleetManager\\RosondFleetManager\\Controllers\\SuppliersController.cs",
               "RelativeToolTip": "RosondFleetManager\\Controllers\\SuppliersController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAqwHQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAiwHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T18:41:59.05Z",
               "EditorCaption": ""
@@ -354,8 +347,7 @@
               "RelativeToolTip": "RosondFleetManager\\Models\\Branch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T13:12:07.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:12:07.971Z"
             },
             {
               "$type": "Document",
@@ -367,8 +359,7 @@
               "RelativeToolTip": "RosondFleetManager\\Controllers\\VehiclesController.cs",
               "ViewState": "AgIAAJcAAAAAAAAAAAAiwK4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T18:46:57.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T18:46:57.926Z"
             },
             {
               "$type": "Document",
@@ -380,8 +371,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Branches\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T16:16:07.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T16:16:07.974Z"
             },
             {
               "$type": "Document",
@@ -393,8 +383,7 @@
               "RelativeToolTip": "RosondFleetManager\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T19:06:52.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T19:06:52.61Z"
             },
             {
               "$type": "Document",
@@ -406,8 +395,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Branches\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T18:56:17.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T18:56:17.991Z"
             },
             {
               "$type": "Document",
@@ -419,8 +407,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Branches\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T18:55:57.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T18:55:57.79Z"
             },
             {
               "$type": "Document",
@@ -432,8 +419,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Branches\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T11:39:43.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T11:39:43.838Z"
             },
             {
               "$type": "Document",
@@ -445,8 +431,7 @@
               "RelativeToolTip": "RosondFleetManager\\Controllers\\BranchesController.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAA9wH8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T18:39:49.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T18:39:49.475Z"
             },
             {
               "$type": "Document",
@@ -458,8 +443,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T21:20:49.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T21:20:49.694Z"
             },
             {
               "$type": "Document",
@@ -471,8 +455,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Branches\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T18:55:38.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T18:55:38.152Z"
             },
             {
               "$type": "Document",
@@ -484,8 +467,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Drivers\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T19:02:38.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T19:02:38.389Z"
             },
             {
               "$type": "Document",
@@ -497,8 +479,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Drivers\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T19:02:15.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T19:02:15.059Z"
             },
             {
               "$type": "Document",
@@ -510,8 +491,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Drivers\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T19:01:40.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T19:01:40.663Z"
             },
             {
               "$type": "Document",
@@ -523,8 +503,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Drivers\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T19:01:23.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T19:01:23.683Z"
             },
             {
               "$type": "Document",
@@ -536,8 +515,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Drivers\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T11:33:46.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T11:33:46.731Z"
             },
             {
               "$type": "Document",
@@ -549,8 +527,7 @@
               "RelativeToolTip": "RosondFleetManager\\Controllers\\DriversController.cs",
               "ViewState": "AgIAAGgAAAAAAAAAAAAgwH8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T21:11:27.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T21:11:27.529Z"
             },
             {
               "$type": "Document",
@@ -562,8 +539,7 @@
               "RelativeToolTip": "RosondFleetManager\\Migrations\\202508010938391_AddClientTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T09:38:43.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T09:38:43.482Z"
             },
             {
               "$type": "Document",
@@ -575,8 +551,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Clients\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T18:58:15.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T18:58:15.738Z"
             },
             {
               "$type": "Document",
@@ -588,8 +563,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Clients\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T14:14:50.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T14:14:50.628Z"
             },
             {
               "$type": "Document",
@@ -601,8 +575,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Clients\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T18:58:38.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T18:58:38.886Z"
             },
             {
               "$type": "Document",
@@ -614,8 +587,7 @@
               "RelativeToolTip": "RosondFleetManager\\Controllers\\ClientsController.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAApwBMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T18:45:52.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T18:45:52.103Z"
             },
             {
               "$type": "Document",
@@ -627,8 +599,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Clients\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T11:36:25.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T11:36:25.85Z"
             },
             {
               "$type": "Document",
@@ -640,8 +611,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Clients\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T18:58:33.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T18:58:33.033Z"
             },
             {
               "$type": "Document",
@@ -653,8 +623,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Suppliers\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T18:47:25.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T18:47:25.213Z"
             },
             {
               "$type": "Document",
@@ -666,8 +635,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Suppliers\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T18:46:33.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T18:46:33.611Z"
             },
             {
               "$type": "Document",
@@ -679,8 +647,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Suppliers\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T18:45:27.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T18:45:27.4Z"
             },
             {
               "$type": "Document",
@@ -692,8 +659,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Suppliers\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T10:57:55.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T10:57:55.362Z"
             },
             {
               "$type": "Document",
@@ -705,8 +671,7 @@
               "RelativeToolTip": "RosondFleetManager\\Views\\Suppliers\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T10:56:33.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T10:56:33.567Z"
             },
             {
               "$type": "Document",
