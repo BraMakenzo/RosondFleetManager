@@ -1,0 +1,41 @@
+﻿@model IEnumerable<RosondFleetManager.Models.Driver>
+
+@{
+    ViewBag.Title = "Drivers";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2>Drivers</h2>
+        @Html.ActionLink("Create New Driver", "Create", null, new { @class = "btn btn-success" })
+    </div>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+    }
+
+    <table class="table table-bordered table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>Name</th>
+                <th>License Number</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.LicenseNumber</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.DriverId }, new { @class = "btn btn-sm btn-primary" }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.DriverId }, new { @class = "btn btn-sm btn-info" }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.DriverId }, new { @class = "btn btn-sm btn-danger" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

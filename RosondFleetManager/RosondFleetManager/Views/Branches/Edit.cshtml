@@ -1,0 +1,35 @@
+﻿@model RosondFleetManager.Models.Branch
+
+@{
+    ViewBag.Title = "Edit Branch";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h2>Edit Branch</h2>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("Edit", "Branches", FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+                @Html.HiddenFor(model => model.BranchId)
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Name)
+                    @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Location)
+                    @Html.TextBoxFor(model => model.Location, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.Location, "", new { @class = "text-danger" })
+                </div>
+
+                <button type="submit" class="btn btn-primary">Save</button>
+                @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary ms-2" })
+            }
+        </div>
+    </div>
+</div>

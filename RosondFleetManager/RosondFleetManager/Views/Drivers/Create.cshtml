@@ -1,0 +1,34 @@
+﻿@model RosondFleetManager.Models.Driver
+
+@{
+    ViewBag.Title = "Create Driver";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-success text-white">
+            <h2>Create Driver</h2>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Name)
+                    @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.LicenseNumber)
+                    @Html.TextBoxFor(model => model.LicenseNumber, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.LicenseNumber, "", new { @class = "text-danger" })
+                </div>
+
+                <button type="submit" class="btn btn-success">Create</button>
+                @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary ms-2" })
+            }
+        </div>
+    </div>
+</div>

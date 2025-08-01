@@ -1,0 +1,35 @@
+﻿@model IEnumerable<RosondFleetManager.Models.Supplier>
+
+@{
+    ViewBag.Title = "Suppliers";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-3">Suppliers</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-success mb-3" })
+    </p>
+
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Name</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td class="text-end">
+                        @Html.ActionLink("Edit", "Edit", new { id = item.SupplierId }, new { @class = "btn btn-primary btn-sm me-1" })
+                        @Html.ActionLink("Details", "Details", new { id = item.SupplierId }, new { @class = "btn btn-info btn-sm me-1" })
+                        @Html.ActionLink("Delete", "Delete", new { id = item.SupplierId }, new { @class = "btn btn-danger btn-sm" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,26 @@
+﻿@model RosondFleetManager.Models.Client
+
+@{
+    ViewBag.Title = "Client Details";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-sm rounded">
+        <div class="card-header bg-info text-white">
+            <h2 class="mb-0">Client Details</h2>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3">Name</dt>
+                <dd class="col-sm-9">@Model.Name</dd>
+
+                <dt class="col-sm-3">Contact Info</dt>
+                <dd class="col-sm-9">@Model.ContactInfo</dd>
+            </dl>
+        </div>
+        <div class="card-footer text-end">
+            @Html.ActionLink("Edit", "Edit", new { id = Model.ClientId }, new { @class = "btn btn-primary me-2" })
+            @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+        </div>
+    </div>
+</div>

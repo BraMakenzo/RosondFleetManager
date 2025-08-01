@@ -1,0 +1,46 @@
+﻿@model IEnumerable<RosondFleetManager.Models.Vehicle>
+@{
+    ViewBag.Title = "Vehicles";
+}
+
+<h2>Vehicles</h2>
+
+<p>
+    @Html.ActionLink("Create New Vehicle", "Create", null, new { @class = "btn btn-success" })
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>Make</th>
+            <th>Model</th>
+            <th>Year</th>
+            <th>VIN</th>
+            <th>Supplier</th>
+            <th>Branch</th>
+            <th>Client</th>
+            <th>Driver</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Make</td>
+                <td>@item.Model</td>
+                <td>@item.Year</td>
+                <td>@item.VIN</td>
+                <td>@(item.Supplier != null ? item.Supplier.Name : "N/A")</td>
+                <td>@(item.Branch != null ? item.Branch.Name : "N/A")</td>
+                <td>@(item.Client != null ? item.Client.Name : "N/A")</td>
+                <td>@(item.Driver != null ? item.Driver.Name : "N/A")</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.VehicleId }, new { @class = "btn btn-sm btn-primary" }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.VehicleId }, new { @class = "btn btn-sm btn-info" }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.VehicleId }, new { @class = "btn btn-sm btn-danger" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
