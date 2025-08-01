@@ -1,0 +1,44 @@
+
+Rosond Fleet Manager - Release Notes
+------------------------------------
+
+Release Version: 1.0
+Release Date: August 1, 2025
+
+Summary:
+This release delivers the full implementation of the Rosond Fleet Manager web application using ASP.NET MVC (C#) with Entity Framework Code First approach and SQL Server as the backend database. The system provides vehicle management capabilities across clients, suppliers, branches, and drivers. It includes detailed reporting, validation, Bootstrap-styled views, and full CRUD support.
+
+New Features:
+- Vehicle Management (CRUD)
+- Supplier Management (CRUD)
+- Branch Management (CRUD)
+- Client Management (CRUD)
+- Driver Management (CRUD)
+- Vehicle-to-Driver linking, with optional new driver entry
+- Summary Dashboard for vehicle distribution by supplier, client, branch, and manufacturer
+- Bootstrap integration for responsive UI
+- Validation on all key input fields
+- TempData-based success/failure messaging on CRUD actions
+- Code First database schema via Entity Framework
+- ReportViewModel and dynamic reporting UI
+
+Technical Details:
+- .NET Framework 4.8 / ASP.NET MVC 5
+- Entity Framework 6 (Code First)
+- SQL Server (LocalDB or full SQL Server instance)
+- Bootstrap 4+ CSS integration
+- LINQ-based queries for reports
+- Proper navigation property resolution via .Include()
+
+Artifacts Included:
+- Complete Visual Studio project files
+- SQL Server Code First migrations applied
+- ReportViewModel and ERD (PDF included)
+- Release Notes (this file)
+
+Known Issues:
+- None identified during final testing
+
+Next Steps:
+- Deployment setup (optional)
+- User documentation (optional)
