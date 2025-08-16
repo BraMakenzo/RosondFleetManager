@@ -1,0 +1,22 @@
+# Ensure .cs files are always counted
+*.cs linguist-detectable=true
+
+# Count Razor Views as C# instead of HTML
+*.cshtml linguist-language=C#
+
+# Ignore auto-generated build files
+bin/* linguist-vendored
+obj/* linguist-vendored
+
+# Ignore frontend/vendor files
+*.js linguist-vendored
+*.html linguist-vendored
+*.css linguist-vendored
+
+# Ignore common frontend dependency folders
+wwwroot/* linguist-vendored
+node_modules/* linguist-vendored
+
+# Ignore config & misc
+*.json linguist-vendored
+*.map linguist-vendored
