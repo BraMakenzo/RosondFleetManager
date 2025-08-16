@@ -1,7 +1,5 @@
-# Ensure .cs files are always counted
+# Count C# and Razor Views
 *.cs linguist-detectable=true
-
-# Count Razor Views as C# instead of HTML
 *.cshtml linguist-language=C#
 
 # Ignore auto-generated build files
